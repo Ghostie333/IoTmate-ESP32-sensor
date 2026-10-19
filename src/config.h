@@ -22,7 +22,7 @@ constexpr DeviceType DEVICE_TYPE = DeviceType::Sensor;
 
 #define DHT_PIN 0
 #define DHT_TYPE DHT22
-#define SENSOR_INTERVAL_MS 10000
+#define SENSOR_INTERVAL_MS 2000
 
 #define WIFI_CONNECT_ATTEMPTS 4
 #define WIFI_CONNECT_TIMEOUT_MS 10000
